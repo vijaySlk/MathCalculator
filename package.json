@@ -1,0 +1,16 @@
+{
+  "name": "mathcalculator",
+  "version": "1.0.0",
+  "description": "math calculator example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Math",
+    "calculator",
+    "ionic"
+  ],
+  "author": "Vijay Prajapati",
+  "license": "ISC"
+}
